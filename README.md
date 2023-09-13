@@ -22,6 +22,8 @@
 |     2| Javascript |
 |     3| SQL       |
 
+-------------------------------------------
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/OHkZG6D.png">
  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/gHYWgLJ.png">
