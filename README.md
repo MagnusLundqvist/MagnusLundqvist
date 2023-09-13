@@ -1,8 +1,8 @@
 ### Hello it's me.
 
 - 📫 How to reach me:
-  Discord: magnuslundqvist
-  Mail: magnuslundqvist.business@gmail.com
+Discord: magnuslundqvist
+Mail: magnuslundqvist.business@gmail.com
 
 - 🔭 I’m currently working on: Status Roleplay FiveM & Gamer House.
 
