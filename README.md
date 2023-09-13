@@ -20,7 +20,9 @@
 |-----:|-----------|
 |     1| LUA |
 |     2| Javascript |
-|     3| SQL       |
+|     3| HTML |
+|     4| CSS |
+|     5| SQL |
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/OHkZG6D.png">
