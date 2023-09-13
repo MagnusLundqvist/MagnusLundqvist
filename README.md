@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: Status Roleplay FiveM & Gamer House.
 
-| col 1      | col 2      |
+| Gamer House     | Status Roleplay      |
 |------------|-------------|
 | [<img src="https://i.imgur.com/OHkZG6D.png" width="250">](https://discord.gg/sVgczmpAD7) | [<img src="https://i.imgur.com/YEEeNId.png" width="250">](https://discord.com/invite/statusrp) | 
 
