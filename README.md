@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[Imgur](https://imgur.com/OHkZG6D)">
+ <source media="(prefers-color-scheme: light)" srcset="[Imgur](https://imgur.com/gHYWgLJ)">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 <!--
 **MagnusLundqvist/MagnusLundqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
