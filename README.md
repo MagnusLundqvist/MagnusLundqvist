@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello it's me.
+
+- 📫 How to reach me:
+- Discord: magnuslundqvist
+- Mail: magnuslundqvist.business@gmail.com
+
+- 🔭 I’m currently working on: Status Roleplay FiveM & Gamer House.
+
+- 🌱 I’m currently learning: What life is about.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/OHkZG6D.png">
@@ -8,8 +16,6 @@
 
 
 <!--
-**MagnusLundqvist/MagnusLundqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
