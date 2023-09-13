@@ -8,6 +8,10 @@
 
 - 🔭 I’m currently working on: Status Roleplay FiveM & Gamer House.
 
+| col 1      | col 2      |
+|------------|-------------|
+| [<img src="https://i.imgur.com/OHkZG6D.png" width="250">](https://www.google.se/) | <img src="https://i.imgur.com/YEEeNId.png" width="250"> | 
+
 -------------------------------------------
 
 - 🌱 I’m currently learning: What life is about.
@@ -23,12 +27,6 @@
 |     3| HTML |
 |     4| CSS |
 |     5| SQL |
-
--------------------------------------------
-
-| col 1      | col 2      |
-|------------|-------------|
-| <img src="https://i.imgur.com/OHkZG6D.png" width="250"> | <img src="https://i.imgur.com/YEEeNId.png" width="250"> | 
 
 
 <!--
