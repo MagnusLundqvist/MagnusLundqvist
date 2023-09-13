@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning: What life is about.
 
+-------------------------------------------
+
 <summary>My languages</summary>
 
 | Rank | Languages |
