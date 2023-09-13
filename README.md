@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/OHkZG6D">
- <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/gHYWgLJ">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/OHkZG6D.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/gHYWgLJ.png">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
