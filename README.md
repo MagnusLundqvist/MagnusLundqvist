@@ -24,17 +24,11 @@
 |     4| CSS |
 |     5| SQL |
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/OHkZG6D.png">
- <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/gHYWgLJ.png">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+-------------------------------------------
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/YEEeNId.png">
- <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/YEEeNId.png">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="https://i.imgur.com/OHkZG6D.png" width="250"> | <img src="https://i.imgur.com/YEEeNId.png" width="250"> | 
 
 
 <!--
