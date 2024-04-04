@@ -6,13 +6,6 @@
 
 -------------------------------------------
 
-| Gamer House     |
-|------------|-------------|
-| [<img src="https://i.imgur.com/OHkZG6D.png" width="250">](https://discord.gg/sVgczmpAD7) |
-
--------------------------------------------
-
-
 <!--
 Here are some ideas to get you started:
 
