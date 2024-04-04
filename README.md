@@ -6,27 +6,11 @@
 
 -------------------------------------------
 
-- 🔭 I’m currently working on: Status Roleplay FiveM & Gamer House.
-
-| Gamer House     | Status Roleplay      |
+| Gamer House     |
 |------------|-------------|
-| [<img src="https://i.imgur.com/OHkZG6D.png" width="250">](https://discord.gg/sVgczmpAD7) | [<img src="https://i.imgur.com/YEEeNId.png" width="250">](https://discord.com/invite/statusrp) | 
+| [<img src="https://i.imgur.com/OHkZG6D.png" width="250">](https://discord.gg/sVgczmpAD7) |
 
 -------------------------------------------
-
-- 🌱 I’m currently learning: What life is about.
-
--------------------------------------------
-
-<summary>My languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| LUA |
-|     2| Javascript |
-|     3| HTML |
-|     4| CSS |
-|     5| SQL |
 
 
 <!--
